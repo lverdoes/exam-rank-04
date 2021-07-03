@@ -1,6 +1,6 @@
-NAME	= microshell
-SRC		= microshell.c
-FLAGS	= -Wall -Wextra -Werror
+NAME = microshell
+SRC = microshell.c
+FLAGS = -Wall -Wextra -Werror
 
 all: $(NAME)
 
