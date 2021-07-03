@@ -1,15 +1,3 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         ::::::::             #
-#    Makefile                                           :+:    :+:             #
-#                                                      +:+                     #
-#    By: lverdoes <lverdoes@student.codam.nl>         +#+                      #
-#                                                    +#+                       #
-#    Created: 2021/07/03 11:09:25 by lverdoes      #+#    #+#                  #
-#    Updated: 2021/07/03 11:10:47 by lverdoes      ########   odam.nl          #
-#                                                                              #
-# **************************************************************************** #
-
 NAME	= microshell
 SRC		= microshell.c
 FLAGS	= -Wall -Wextra -Werror
